@@ -1,2 +1,2 @@
 # Computer-vision
-Projects and excesices of computer vision
+Projects and excersices of computer vision
